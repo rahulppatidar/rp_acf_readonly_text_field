@@ -19,7 +19,7 @@ Just paste this folder in plugin folder of your Wordpress site then from admin a
 
 ## License
 
-This project is opensource project ininitial level.
+This project is opensource project in initial level.
 
 ## Acknowledgments
 
