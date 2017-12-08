@@ -1,4 +1,4 @@
-# rp_acf_readonly_text_field
+# Rp Acf Readonly Text Field
 ```
 This plugin add readonly and disable properties to acf text field.
 ```
